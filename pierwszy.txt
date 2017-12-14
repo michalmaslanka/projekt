@@ -1,1 +1,1 @@
-moj pierwszy plik w  git
+moj pierwszy plik w  git, changed it
