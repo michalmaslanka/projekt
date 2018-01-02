@@ -1,1 +1,2 @@
 moj pierwszy plik w  git, changed itbc
+It comes before
